@@ -1,0 +1,54 @@
+[
+  {
+    "cle": "nom_complet",
+    "valeur": "Koffa Jean AGOUDAVI"
+  },
+  {
+    "cle": "titre_professionnel",
+    "valeur": "Fondateur de DIGICRAFT Labs"
+  },
+  {
+    "cle": "slogan_hero",
+    "valeur": "Je transforme les idées complexes en systèmes digitaux intelligents."
+  },
+  {
+    "cle": "description_hero",
+    "valeur": "Je conçois des automatisations, des agents IA, des bots et des produits digitaux pour simplifier les workflows et créer des solutions concrètes."
+  },
+  {
+    "cle": "email_contact",
+    "valeur": "contact.agoudavi@gmail.com"
+  },
+  {
+    "cle": "url_linkedin",
+    "valeur": "https://www.linkedin.com/in/koffa-jean-agoudavi-514895423"
+  },
+  {
+    "cle": "url_telegram",
+    "valeur": "https://t.me/johnnyokabe"
+  },
+  {
+    "cle": "url_google_business",
+    "valeur": "https://share.google/ont9TyuWshpud74fL"
+  },
+  {
+    "cle": "url_boutique",
+    "valeur": "https://digicraft.mychariow.shop"
+  },
+  {
+    "cle": "url_webhook_contact",
+    "valeur": "https://hook.eu1.make.com/wjgpk28nmywizvm7kl95hv45gt7n6quq"
+  },
+  {
+    "cle": "statut_disponibilite",
+    "valeur": "AVAILABLE FOR PROJECTS"
+  },
+  {
+    "cle": "ga4_id",
+    "valeur": "G-LH9R3H5XYX"
+  },
+  {
+    "cle": "clarity_id",
+    "valeur": "yaxx6uxxws"
+  }
+]

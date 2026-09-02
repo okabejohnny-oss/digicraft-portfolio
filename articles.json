@@ -1,0 +1,54 @@
+[
+  {
+    "id": "a1",
+    "titre": "IA sans hallucination : guide pratique",
+    "slug": "ia-sans-hallucination-guide-pratique",
+    "plateforme": "LinkedIn",
+    "description": "Comment structurer des prompts précis pour réduire les erreurs de l'IA, avec des exemples concrets avant / après.",
+    "temps_lecture": "5",
+    "url": "https://www.linkedin.com/in/koffa-jean-agoudavi-514895423",
+    "image_url": "",
+    "date": "2026-07",
+    "featured": "TRUE",
+    "ordre": "1"
+  },
+  {
+    "id": "a2",
+    "titre": "Faire parler des outils qui ne se parlent pas",
+    "slug": "faire-parler-des-outils-qui-ne-se-parlent-pas",
+    "plateforme": "LinkedIn",
+    "description": "Pourquoi l'automatisation ne consiste pas à remplacer l'humain, mais à supprimer les gestes inutiles entre deux outils.",
+    "temps_lecture": "4",
+    "url": "https://www.linkedin.com/in/koffa-jean-agoudavi-514895423",
+    "image_url": "",
+    "date": "2026-06",
+    "featured": "TRUE",
+    "ordre": "2"
+  },
+  {
+    "id": "a3",
+    "titre": "Le point de départ d'un bon workflow",
+    "slug": "le-point-de-depart-d-un-bon-workflow",
+    "plateforme": "LinkedIn",
+    "description": "La question à se poser avant de construire n'importe quelle automatisation : où commence et où finit vraiment le processus ?",
+    "temps_lecture": "3",
+    "url": "https://www.linkedin.com/in/koffa-jean-agoudavi-514895423",
+    "image_url": "",
+    "date": "2026-05",
+    "featured": "TRUE",
+    "ordre": "3"
+  },
+  {
+    "id": "a4",
+    "titre": "Construire un assistant Telegram de A à Z",
+    "slug": "construire-un-assistant-telegram",
+    "plateforme": "LinkedIn",
+    "description": "Retour d'expérience sur la conception de ScriboAI : choix du modèle, contraintes de contexte et ergonomie conversationnelle.",
+    "temps_lecture": "6",
+    "url": "https://www.linkedin.com/in/koffa-jean-agoudavi-514895423",
+    "image_url": "",
+    "date": "2026-04",
+    "featured": "FALSE",
+    "ordre": "4"
+  }
+]

@@ -1,0 +1,5 @@
+id,nom_produit,slug,description,prix,devise,image_cover,url_boutique,badge,featured,ordre
+r1,IA SANS HALLUCINATION,ia-sans-hallucination,"Le guide pratique pour structurer vos prompts, encadrer les réponses de l'IA et réduire les erreurs au quotidien.",15,$,,https://REMPLACER,BESTSELLER,TRUE,1
+r2,Kit d'automatisation Make,kit-automatisation-make,"Des templates de workflows prêts à adapter : gestion d'emails, veille, synchronisation de données, alertes.",19,$,,https://REMPLACER,NOUVEAU,TRUE,2
+r3,Pack prompts IA avancés,pack-prompts-ia-avances,"Une bibliothèque de prompts éprouvés pour la rédaction, la synthèse, l'analyse et la création de contenu.",9,$,,https://REMPLACER,,TRUE,3
+r4,Guide des bots Telegram,guide-des-bots-telegram,"Comprendre ce qu'un bot peut réellement apporter à votre activité et par où commencer, sans code.",12,$,,https://REMPLACER,,FALSE,4
