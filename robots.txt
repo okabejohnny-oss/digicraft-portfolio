@@ -1,0 +1,5 @@
+# DIGICRAFT Labs — robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://digicraft-labs-drf.pages.dev/sitemap.xml
